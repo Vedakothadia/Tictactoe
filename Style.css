@@ -45,3 +45,29 @@ h1{
     font-size:0.9rem;
   margin-left:2%;
 }
+.message {
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+  }
+  #winner {
+    color: whitesmoke;
+    font-size: 12vmin;
+    text-align: center;
+  }
+  .hide {
+    display: none;
+  }
+  #new-btn {
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: white;
+    box-shadow: 6px 6px 1px 0px rgba(0,0,0,0.5);
+    color: #548687;
+    border-radius: 1rem;
+    border: none;
+    align-items: center;
+  }
