@@ -1,0 +1,27 @@
+.main{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #548687;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: white;
+}
+.game{
+    margin-top: 15vh;
+    height: 60vh;
+    width: 50vw;
+    display: flex;
+    flex-wrap: wrap;
+    
+    gap: 1.5vmin;
+}
+.btn{
+    height: 20vh;
+    width: 14vw;
+   
+}
