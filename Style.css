@@ -30,6 +30,7 @@ h1{
    border-style: none;
    box-shadow: 6px 6px 1px 0px rgba(0,0,0,0.5);
    font-size: 8vmin;
+   background-color: whitesmoke;
    color: #3c6363;
 }
 .reset{

@@ -1,4 +1,5 @@
 let boxes = document.querySelectorAll(".btn");
+let resetBtn = document.querySelector("#reset-btn");
 
 let turnO = true; //playerX, playerO
 let count = 0;
